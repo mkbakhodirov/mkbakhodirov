@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi!
+I'm Java Web Backend Developer specialized in Spring Framework, Postgresql and MongoDB.
 
 <!--
 **mkbakhodirov/mkbakhodirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
